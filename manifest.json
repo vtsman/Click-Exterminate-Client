@@ -27,5 +27,8 @@
   "permissions": [
     "activeTab",
     "tabs"
-  ]
+  ],
+  "icons": {
+    "128": "nofeed.png"
+  }
 }
